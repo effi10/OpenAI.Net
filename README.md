@@ -13,7 +13,7 @@
 </div>  
 
 ## Installation
-Stable builds are available through [NuGet](https://www.nuget.org/packages/OpenAI.Net).  
+Stable builds are available through [NuGet](https://www.nuget.org/packages/OpenAI.Net). Updated version with latest engines of OpenAI (text-davinci-002, code-davinci-002). Allows the use of rephrasing and the use of advanced prompts. 
 ```
 Install-Package OpenAI.Net
 ```
