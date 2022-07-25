@@ -4,7 +4,7 @@
 	OpenAI.Net
 </h1>
 
-<h4 align="center">An unofficial .NET API wrapper for OpenAI.</h4>
+<h4 align="center">An unofficial .NET API wrapper for OpenAI, updated with latest versions of OpenAI engines.</h4>
 
 <div align="center">
 
